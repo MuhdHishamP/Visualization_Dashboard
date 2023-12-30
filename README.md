@@ -5,4 +5,4 @@ This is a React app which serves as a Visualization Dashboard that
                 types of charts to help you analyze and visualize trends. Various charts Line Charts, Bar Charts, Polar Area
                 Charts, and Pie Charts are generated.
 
-Check it out here: https://astonishing-sfogliatella-777e7d.netlify.app/
+Check it out here: [Visualization Dashboard](https://astonishing-sfogliatella-777e7d.netlify.app/)

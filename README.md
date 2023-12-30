@@ -6,3 +6,10 @@ This is a React app which serves as a Visualization Dashboard that
                 Charts, and Pie Charts are generated.
 
 Check it out here: [Visualization Dashboard](https://astonishing-sfogliatella-777e7d.netlify.app/)
+
+## Build with:
+- Django
+- React JS
+- Django Rest Framework
+- PostgreSQL
+- Material UI
